@@ -1,0 +1,237 @@
+COMPANY EMPLOYEE HANDBOOK
+
+1. LEAVE AND TIME OFF
+
+Employees receive 18 days of annual paid leave for each calendar year.
+
+Employees may carry forward up to 5 unused annual leave days into the following year. Any unused days above the 5-day carry-forward limit will normally expire at the end of the year.
+
+Employees should submit planned leave requests at least 3 working days before the intended start date.
+
+For emergencies or unexpected situations, employees should inform their manager as soon as reasonably possible.
+
+Employees who are sick should follow the company's sick-leave notification procedure and inform their manager according to their team's requirements.
+
+Parental leave is available to eligible employees according to applicable company policy and local employment regulations.
+
+Managers are responsible for reviewing leave requests and ensuring that team coverage is maintained.
+
+Employees should check their leave balance before submitting extended leave requests.
+
+2. WORKING HOURS AND ATTENDANCE
+
+The standard working schedule is Monday through Friday.
+
+Employees are expected to be available during their team's agreed core working hours.
+
+Employees who expect to arrive late or be unavailable during working hours should inform their manager as early as possible.
+
+Repeated unexplained absences may be referred to the employee's manager and Human Resources for review.
+
+Employees working across different time zones should agree on communication and availability expectations with their manager.
+
+3. REMOTE WORK
+
+Eligible employees may work remotely according to their team's remote-work arrangements.
+
+Remote employees are responsible for maintaining a suitable and secure working environment.
+
+Employees must protect company information when working from home, hotels, cafes, airports, or other public locations.
+
+Employees should avoid discussing confidential company information in public places where conversations may be overheard.
+
+Company laptops should not be left unattended in public locations.
+
+Employees using public Wi-Fi should use the company's approved security controls, such as a corporate VPN, when required.
+
+Remote-work arrangements may be reviewed by managers depending on business requirements.
+
+4. COMPANY LAPTOPS AND IT EQUIPMENT
+
+Employees who require access to internal company systems must use company-issued laptops unless an approved exception exists.
+
+Employees must keep company laptops and other company-owned equipment secure.
+
+Employees must not share their company laptop with unauthorized individuals.
+
+Employees should lock their computer whenever they leave it unattended.
+
+Employees should report lost or stolen company equipment to the IT support team immediately.
+
+If a company laptop is stolen while travelling, the employee should report the incident to IT support and their manager as soon as possible.
+
+Employees must return company-owned equipment when their employment ends or when requested by the company.
+
+5. SOFTWARE INSTALLATION
+
+Employees must not install unauthorized software on company-owned devices.
+
+Software required for business purposes should be requested through the approved IT support process.
+
+Employees should not bypass company security controls to install applications.
+
+Open-source software may only be installed when it is permitted by company policy and approved processes.
+
+Employees should contact IT support if they are unsure whether a particular application is permitted.
+
+6. PASSWORDS AND ACCOUNT SECURITY
+
+Employees must keep their company passwords confidential.
+
+Passwords must not be shared with colleagues, managers, friends, family members, or external parties.
+
+Employees should use strong and unique passwords for company accounts.
+
+Multi-factor authentication should be enabled wherever the company requires it.
+
+Employees should not approve unexpected authentication requests.
+
+If an employee believes that their password has been compromised, they should change the password immediately and contact IT security.
+
+Employees should not write passwords on notes attached to their laptop or monitor.
+
+7. INFORMATION SECURITY
+
+Employees must protect confidential company information from unauthorized access.
+
+Confidential documents should only be shared with people who have a legitimate business need to access them.
+
+Employees should verify unexpected requests for sensitive information before responding.
+
+Security-related incidents should be reported immediately to the IT security team.
+
+Examples of security incidents include suspected phishing attacks, stolen credentials, unauthorized access, malware infections, and lost devices containing company information.
+
+Employees should not attempt to investigate or remove suspected malware themselves unless instructed by the IT security team.
+
+If an employee receives a suspicious email requesting a password or financial information, they should not provide the requested information and should report the message through the company's security reporting process.
+
+8. DATA PRIVACY
+
+Employees must handle personal information responsibly.
+
+Personal information should only be collected, accessed, used, or shared for legitimate business purposes.
+
+Employees should avoid downloading personal information to unauthorized devices or storage locations.
+
+Personal information should not be sent to external parties unless the employee has appropriate authorization.
+
+Any suspected loss or unauthorized disclosure of personal information should be reported to the appropriate privacy or security team.
+
+Employees should follow company retention and deletion requirements for personal information.
+
+9. TRAVEL AND EXPENSES
+
+Employees travelling for approved business purposes may claim eligible business expenses according to the company's expense policy.
+
+Employees should retain receipts for reimbursable expenses.
+
+Travel bookings should normally be made through the company's approved travel process.
+
+Employees should obtain the required approval before making significant business travel arrangements.
+
+Personal expenses should not be submitted as business expenses.
+
+Expense claims should be submitted within the timeframe specified by the company's finance policy.
+
+Managers are responsible for reviewing and approving eligible expenses submitted by their team members.
+
+10. PERFORMANCE REVIEWS
+
+Employees participate in periodic performance reviews.
+
+Performance discussions may include progress against objectives, technical skills, teamwork, communication, and professional development.
+
+Employees should discuss unclear expectations with their manager before the formal review where possible.
+
+Managers should provide employees with feedback throughout the year rather than waiting until the formal review.
+
+Employees may create development goals together with their manager.
+
+Performance review records should be handled confidentially.
+
+11. PROMOTIONS AND CAREER DEVELOPMENT
+
+Promotion decisions consider factors such as sustained performance, demonstrated skills, responsibilities, business requirements, and available roles.
+
+Employees interested in career development should discuss their goals with their manager.
+
+Employees may request opportunities to develop skills through training, mentoring, projects, or increased responsibilities.
+
+Completing a training course does not automatically guarantee promotion.
+
+Employees should maintain an up-to-date record of relevant skills and professional achievements.
+
+12. TRAINING AND LEARNING
+
+The company encourages employees to develop technical and professional skills.
+
+Employees may request relevant training through their manager or the approved learning process.
+
+Training requests should explain how the proposed training supports the employee's current responsibilities or development goals.
+
+Employees participating in company-funded training may be required to follow additional approval or reimbursement rules.
+
+Employees should share useful knowledge with their teams when appropriate.
+
+13. WORKPLACE CONDUCT
+
+Employees are expected to treat colleagues, customers, partners, and other individuals respectfully.
+
+Bullying, harassment, discrimination, intimidation, and threatening behavior are not acceptable.
+
+Employees should raise workplace concerns through their manager, Human Resources, or another approved reporting channel.
+
+Employees should maintain professional behavior in both physical and online workplace environments.
+
+Company communication systems should not be used for unlawful or abusive activity.
+
+14. BUSINESS CONTINUITY AND EMERGENCIES
+
+Employees should follow instructions from the company during major operational disruptions.
+
+If an office becomes unavailable because of an emergency, employees should follow instructions from their manager or the business continuity team.
+
+Employees should keep their emergency contact information up to date where required.
+
+For urgent safety issues, employees should follow local emergency procedures and contact the appropriate emergency services when necessary.
+
+Security incidents should be reported to the IT security team even when they occur outside normal office hours.
+
+15. IT SUPPORT
+
+Employees should submit routine technical problems through the company's IT support system.
+
+Examples include problems with laptops, approved software, network access, printers, and company applications.
+
+Employees should provide enough information for IT support to understand the problem, including relevant error messages and when the issue started.
+
+Employees should not attempt unauthorized changes to company infrastructure.
+
+Critical security incidents should be reported through the designated security reporting channel rather than waiting for a routine IT support response.
+
+16. EMPLOYEE BENEFITS
+
+Eligible employees may receive benefits according to their employment terms and applicable company policies.
+
+Benefits may include health coverage, retirement contributions, employee assistance programs, or other company-sponsored programs depending on eligibility.
+
+Employees should contact Human Resources when they need clarification about benefit eligibility.
+
+Changes in personal circumstances that affect benefits should be reported according to the company's procedures.
+
+17. GENERAL POLICY QUESTIONS
+
+Employees should consult the relevant company policy or contact the appropriate department when they are unsure about a company procedure.
+
+Managers and Human Resources can provide guidance on employment-related policies.
+
+IT support can provide assistance with technical problems.
+
+The IT security team handles security incidents and suspected cybersecurity threats.
+
+The privacy team handles questions and incidents involving personal information.
+
+The finance team handles questions about expenses and reimbursement.
+
+Employees are responsible for following the latest version of applicable company policies.
